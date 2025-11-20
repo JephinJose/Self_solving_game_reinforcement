@@ -1,1 +1,1 @@
-# Self_solving_game_reinforcement
+This game attempts to solve a maze by itself. ;)
